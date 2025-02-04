@@ -1,0 +1,57 @@
+h1{
+    color: yellow;
+    text-align: center;
+}
+.p1{
+    color: green;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+body{
+    background-color: rgb(6, 6, 37);
+}
+
+.rasm{
+    
+    width: 380px;
+    height: 400px;
+    border: 5px solid yellow;
+}
+.rasm2{
+    width: 275px;
+    height: 400px;
+    border: 5px solid yellow;
+}
+table, th, td{
+    border: 1px solid yellow;
+    color: white;
+    text-align: center;
+    height: 25px;
+    width: 1330px;
+    
+}
+
+.chto{
+    text-align: center;
+}
+
+input{
+    width: 1320px;
+    height: 20px;
+    
+}
+button{
+    background-color: yellow;
+    border: 1px solid yellow;
+    width: 300px;
+    height: 25px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+.h{
+    text-align: center;
+}
